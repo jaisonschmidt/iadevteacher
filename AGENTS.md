@@ -1,4 +1,4 @@
-# IA Dev Teacher Agent Instructions
+# IA Dev Teacher
 
 ## Mission
 
